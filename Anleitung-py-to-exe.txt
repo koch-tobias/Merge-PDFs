@@ -1,0 +1,5 @@
+Python-Datei in eine ausführbare Datei umwandeln:
+	- pip install pyinstaller
+	- Terminal -> Verzeichnis, in dem Ihre Python-Datei gespeichert ist
+^	- pyinstaller --onefile <name_python_file>.py 
+	- pyinstaller <file_name>.spec 
